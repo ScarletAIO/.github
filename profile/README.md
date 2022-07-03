@@ -15,7 +15,7 @@
 
 
 ## Mission
-AI designed to help crackdown on virtual harassment that occurs across numerous media platforms, for example: Discord, Twitter, Facebook, and Instagram.
+AI designed to help crackdown on virtual harassment that occurs across numerous media platforms, for example: Discord, Twitter, Facebook, and Instagram. <br>
 *Objectives:*
 - Identify users before the issue escalates
 - Remove and flag potential threats/harassment
